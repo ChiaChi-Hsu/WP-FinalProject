@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WP-FinalProject/static/css/main.1a7a287d.chunk.css",
+    "main.js": "/WP-FinalProject/static/js/main.b9243a6c.chunk.js",
+    "main.js.map": "/WP-FinalProject/static/js/main.b9243a6c.chunk.js.map",
+    "runtime-main.js": "/WP-FinalProject/static/js/runtime-main.82f554cc.js",
+    "runtime-main.js.map": "/WP-FinalProject/static/js/runtime-main.82f554cc.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/WP-FinalProject/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f313c469.chunk.js": "/WP-FinalProject/static/js/2.f313c469.chunk.js",
+    "static/js/2.f313c469.chunk.js.map": "/WP-FinalProject/static/js/2.f313c469.chunk.js.map",
+    "static/js/3.43dcab5c.chunk.js": "/WP-FinalProject/static/js/3.43dcab5c.chunk.js",
+    "static/js/3.43dcab5c.chunk.js.map": "/WP-FinalProject/static/js/3.43dcab5c.chunk.js.map",
+    "index.html": "/WP-FinalProject/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/WP-FinalProject/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.1a7a287d.chunk.css.map": "/WP-FinalProject/static/css/main.1a7a287d.chunk.css.map",
+    "static/js/2.f313c469.chunk.js.LICENSE.txt": "/WP-FinalProject/static/js/2.f313c469.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f554cc.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f313c469.chunk.js",
+    "static/css/main.1a7a287d.chunk.css",
+    "static/js/main.b9243a6c.chunk.js"
+  ]
+}
