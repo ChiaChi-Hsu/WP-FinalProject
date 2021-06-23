@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WP-FinalProject/static/css/main.1a7a287d.chunk.css",
-    "main.js": "/WP-FinalProject/static/js/main.b9243a6c.chunk.js",
-    "main.js.map": "/WP-FinalProject/static/js/main.b9243a6c.chunk.js.map",
+    "main.js": "/WP-FinalProject/static/js/main.fd6c471d.chunk.js",
+    "main.js.map": "/WP-FinalProject/static/js/main.fd6c471d.chunk.js.map",
     "runtime-main.js": "/WP-FinalProject/static/js/runtime-main.82f554cc.js",
     "runtime-main.js.map": "/WP-FinalProject/static/js/runtime-main.82f554cc.js.map",
     "static/css/2.61b4cb56.chunk.css": "/WP-FinalProject/static/css/2.61b4cb56.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.f313c469.chunk.js",
     "static/css/main.1a7a287d.chunk.css",
-    "static/js/main.b9243a6c.chunk.js"
+    "static/js/main.fd6c471d.chunk.js"
   ]
 }
