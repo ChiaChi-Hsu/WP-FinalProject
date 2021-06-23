@@ -44,9 +44,9 @@ const Contactus = () => {
                 <div class="col-6 Contactinfo">
                     <p class="fw-bold h3">𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝕴𝖓𝖋𝖔</p>
                     <LocalPhoneIcon></LocalPhoneIcon><b> Phone</b>
-                    <h6>𝟬𝟯-𝟮𝟭𝟭𝟴𝟴𝟬𝟬</h6>
+                    <h5>𝟬𝟯-𝟮𝟭𝟭𝟴𝟴𝟬𝟬</h5>
                     <EmailIcon></EmailIcon><b> Email</b>
-                    <h6>𝗨𝗖𝗖𝗖@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺</h6>
+                    <h5>𝗨𝗖𝗖𝗖@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺</h5>
                 </div>
             </div>
 
